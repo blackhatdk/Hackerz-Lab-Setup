@@ -54,9 +54,9 @@ Continuously expand knowledge and skills in cybersecurity through hands-on exper
 Acknowledgments:
 We extend our gratitude to the developers of VirtualBox, Kali Linux, and Metasploitable 2 for providing valuable tools for educational and security purposes.
 
-VirtualBox Documentation: Oracle VM VirtualBox
+VirtualBox Documentation: https://www.virtualbox.org/wiki/Downloads
 
-Kali Linux Official Website:''' Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution'''
+Kali Linux Official Website: https://www.kali.org/get-kali/#kali-virtual-machines
 
 Metasploitable 2 GitHub Repository: Metasploitable - https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
 
