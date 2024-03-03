@@ -58,7 +58,7 @@ VirtualBox Documentation: Oracle VM VirtualBox
 
 Kali Linux Official Website:''' Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution'''
 
-Metasploitable 2 GitHub Repository: Metasploitable - Browse /Metasploitable2 at SourceForge.net
+Metasploitable 2 GitHub Repository: Metasploitable - https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
 
 Dhilipan Kumar P
 
